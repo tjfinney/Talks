@@ -1,7 +1,7 @@
 title = "Messages"
 baseURL = "https://tjfinney-messages.netlify.app/"
 languageCode = "en-us"
-theme = 'ananke'
+theme = "ananke"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
