@@ -2,13 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/2025-06-29/</loc>
+    <lastmod>2025-06-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -117,13 +122,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/2021-02-14/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/2021-05-30/</loc>
+    <lastmod>2021-05-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/2021-05-30/</loc>
-    <lastmod>2021-05-30T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/2021-02-14/</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
